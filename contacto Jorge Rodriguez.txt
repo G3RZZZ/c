@@ -1,0 +1,3 @@
+correo: jorger@tec.mx
+oficina: Aulas 3 piso 4
+Horario de asesoría: 12-1 Jueves
